@@ -1,7 +1,7 @@
 {
-  "name": "challenge",
+  "name": "nodejs-big-text-sort",
   "version": "1.0.0",
-  "description": "Schibsted's Challenge",
+  "description": "Sort big text file with NodeJS",
   "author": "Alex Kryzhanovskyy",
   "private": true,
   "dependencies": {},
